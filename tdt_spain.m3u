@@ -1,0 +1,59 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-ID="" tvg-name="La 1" tvg-logo="" group-title="@TDT_SPAIN",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="La 2" tvg-logo="" group-title="@TDT_SPAIN",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sur Andalucía" tvg-logo="" group-title="@TDT_SPAIN",ANDALUCIA TV
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sur Andalucía" tvg-logo="" group-title="@TDT_SPAIN",ANDALUCIA TV new
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sur Andalucía" tvg-logo="" group-title="@TDT_SPAIN",ANDALUCIA TV 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV Centro Andalucía" tvg-logo="" group-title="@TDT_SPAIN",TV Centro Andalucía
+https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Parlamento de Andalucía" tvg-logo="" group-title="@TDT_SPAIN",Parlamento de Andalucía
+http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="101TV Málaga" tvg-logo="" group-title="@TDT_SPAIN",101TV Málaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PTV Málaga" tvg-logo="" group-title="@TDT_SPAIN",PTV Málaga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Córdoba TV" tvg-logo="" group-title="@TDT_SPAIN",Córdoba TV
+http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PTV Córdoba" tvg-logo="" group-title="@TDT_SPAIN",PTV Córdoba
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PTV Sevilla" tvg-logo="" group-title="@TDT_SPAIN",PTV Sevilla
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVM Córdoba" tvg-logo="" group-title="@TDT_SPAIN",TVM Córdoba
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sierra de Cádiz" tvg-logo="" group-title="@TDT_SPAIN",Canal Sierra de Cádiz
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="M95 Marbella" tvg-logo="" group-title="@TDT_SPAIN",M95 Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Huelva TV" tvg-logo="" group-title="@TDT_SPAIN",Huelva TV
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRECE" tvg-logo="" group-title="@TDT_SPAIN",TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="24h" tvg-logo="" group-title="@TDT_SPAIN",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nius" tvg-logo="" group-title="@TDT_SPAIN",Nius
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nius" tvg-logo="" group-title="@TDT_SPAIN",Nius sd
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Euronews" tvg-logo="" group-title="@TDT_SPAIN",Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="El País" tvg-logo="" group-title="@TDT_SPAIN",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Negocios TV" tvg-logo="" group-title="@TDT_SPAIN",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="7NN Noticias" tvg-logo="" group-title="@TDT_SPAIN",7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="El Confidencial" tvg-logo="" group-title="@TDT_SPAIN",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Teledeporte" tvg-logo="" group-title="@TDT_SPAIN",Teledeporte
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Esport 3" tvg-logo="" group-title="@TDT_SPAIN",Esport 3
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Clan" tvg-logo="" group-title="@TDT_SPAIN",Clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Pequeradio TV" tvg-logo="" group-title="@TDT_SPAIN",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
